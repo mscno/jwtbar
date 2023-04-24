@@ -1,0 +1,6 @@
+*.env
+*.local
+.idea
+.vscode
+.DS_store
+coverage_full.out
